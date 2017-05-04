@@ -1,0 +1,53 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color:deeppink; /* Text Color */
+	font-family: ; /* Font for the text */
+	font-weight: ; /* Weight for the text */
+	font-size: 25px;
+	background-color: lightpink
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:purple; /* Color for headers */
+	font-weight: ; /* Weight for headers */
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color:yellowgreen; /* Color for the text on navigation */
+}
+.Riri
+{
+	background-color:skyblue
+}
+.RIRI2
+{
+	background-color:lightgreen
+}
+.RIRI2
+{
+	background-color:lightgreen
+}.RIRI3
+{
+	background-color:yellow
+}
+.RIRI4
+{
+	background-color:lightcyan
+}
